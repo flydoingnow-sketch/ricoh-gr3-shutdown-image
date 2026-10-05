@@ -1,0 +1,90 @@
+GR IV Project Noncommercial Source License 1.0
+
+Copyright (c) 2026 radium-wang and other applicable copyright holders.
+
+1. Scope
+
+This license applies to the original code, examples, and documentation in
+revisions of this project that carry this license, to the extent that their
+respective copyright holders have authority to license them. It does not
+license camera firmware, third-party code, artwork, trademarks, or other
+material owned by third parties.
+
+This license first applies to project revisions published with this license.
+It does not withdraw or change any permission already granted for earlier
+revisions under Apache License 2.0. Material previously released under
+Apache License 2.0 remains available under that license, including where
+the same material appears in a later revision. The permissions for newly licensed material are defined by this license;
+it does not restrict an existing Apache-2.0 grant.
+
+2. Noncommercial permission
+
+Subject to this license, each applicable copyright holder grants you a
+worldwide, non-exclusive, royalty-free permission to use, copy, study,
+research, modify, and redistribute the licensed material, in source or
+executable form, solely for noncommercial purposes. You may redistribute
+your modifications for noncommercial purposes under Section 4.
+
+"Noncommercial" means that the activity is not intended for, directed
+toward, or connected with direct or indirect financial gain or commercial
+advantage for you or another person or entity. Personal learning, research,
+and sharing without payment or other commercial benefit are permitted.
+
+3. Commercial use requires separate permission
+
+This license grants no permission for commercial use. Before using the
+licensed material for a commercial purpose, you must obtain separate prior
+written permission from every copyright holder whose material is involved.
+Commercial use includes, without limitation:
+
+* selling or charging for copies, bundles, modified versions, or access;
+* charging to install, configure, support, operate, or provide project
+  functionality, including as part of a paid service or product;
+* placing project functionality or related materials behind a paywall or
+  making them available as a paid feature; and
+* using the material in advertising, affiliate, subscription, or other
+  activities intended to earn revenue or commercial advantage.
+
+Calling a payment a "donation," "tip," or "service fee" does not make an
+otherwise commercial activity noncommercial. This section does not limit
+rights already granted for earlier Apache-2.0 material as explained in
+Section 1.
+
+4. Redistribution conditions
+
+When redistributing the licensed material or a modified version, you must:
+
+* include this complete license text and the project's applicable NOTICE;
+* retain existing copyright, attribution, and source notices, including a
+  link to the original project where one is present or reasonably available;
+* clearly identify files you changed; and
+* make clear that the project material remains subject to this license's
+  noncommercial restriction, except where a recipient independently relies
+  on a valid earlier Apache-2.0 grant.
+
+You may choose separate terms for your own modifications, but you cannot
+grant broader rights to material owned by others. Recipients receive the
+permissions in this license directly from the relevant copyright holders,
+subject to these conditions.
+
+5. Other rights
+
+No trademark rights are granted. No permission to use or redistribute
+third-party firmware, software, images, or other third-party material is
+granted. This license does not grant patent rights.
+
+6. Termination
+
+Your permissions under this license terminate automatically if you violate
+its terms. They are reinstated if you stop the violation and remedy its
+effects within 30 days after you become aware of it. Termination under this
+license does not terminate any separate, valid Apache-2.0 grant.
+
+7. Disclaimer and limitation of liability
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED MATERIAL IS
+PROVIDED "AS IS," WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, NO COPYRIGHT
+HOLDER IS LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+THE MATERIAL OR ITS USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH LOSS.
