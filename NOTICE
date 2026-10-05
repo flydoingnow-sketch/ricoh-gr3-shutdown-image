@@ -1,0 +1,17 @@
+Copyright 2026 radium-wang and other applicable copyright holders.
+
+Current project revisions use the GR IV Project Noncommercial Source License
+1.0 for material newly licensed under it. See LICENSE. Earlier revisions
+through commit a55a2c7 were published under Apache License 2.0; those
+prior grants remain in force for previously released material, including
+identical material in later revisions. See README.md for details.
+
+RICOH, GR, GR IV, Hasselblad and related names or marks are the property of
+their respective owners. They are used only to identify products or research
+subjects. This project is independent and is not sponsored, endorsed by, or
+affiliated with Ricoh Imaging or Hasselblad. No third-party firmware,
+trademark artwork, or camera readback files are distributed here.
+
+GR III 2.10 adaptation: new workflow, desktop GUI, CLI, tests and documents.
+Derived/changed files and upstream commit are documented in docs/CHANGES.md.
+New adaptation material is distributed under the root noncommercial LICENSE.
