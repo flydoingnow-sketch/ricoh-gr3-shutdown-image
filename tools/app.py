@@ -85,7 +85,7 @@ def main():
     for i,(text,fn) in enumerate(actions):
         b=ttk.Button(row,text=text,command=safe(fn));b.grid(row=i//3,column=i%3,padx=4,pady=5,sticky='ew');buttons.append(b)
     for i in range(3):row.columnconfigure(i,weight=1)
-    experimental=ttk.Button(frame,text='实验选项：一次开机导入并替换（跳过中间电脑哈希校验）',command=safe(lambda:stage(True)));experimental.pack(fill='x');buttons.append(experimental)
+    experimental=ttk.Button(frame,text='一次安装：备份＋导入＋替换（省略中间电脑校验）',command=safe(lambda:stage(True)));experimental.pack(fill='x');buttons.append(experimental)
     ttk.Label(frame,text='操作结束：移走卡内 script/startup.ttl → MENU 开机关闭 Script Enable → 正常开关机确认。恢复包在操作包的 recovery/card 内，只恢复本次修改前图片。',wraplength=790).pack(pady=10)
     if "--ui-self-test" in sys.argv:
         root.after(300,lambda: (print("GUI initialized",root.winfo_width(),root.winfo_height()),root.destroy()))
